@@ -15,7 +15,7 @@ let random = Math.random();
 //mod set to an equation whose remainder= 4 
 
 let mod;
-mod=2%3;
+mod=40%6;
 
 
 
